@@ -1,0 +1,11 @@
+duration,title,name
+0:50,Graph Neural Networks for Complex Networks,Pradyumnan
+0:10,Break, 
+0:45,Atlantic Nino (IPC),Harini
+0:20,Onset and Withdrawal of Indian Monsoon as Phase Transition: A Climate Network Perspective,Yogenraj
+0:20,Work update: Interannual Variability of the Indian Monsoon,Yogenraj
+0:20,Break,
+0:20,Extreme value distributions during cyclone,Shruti
+0:40,Work update,Balakrishnan
+0:30,Work update on Monodisperse droplet generator and ILIDS optical,Sanket
+0:20,Conclusion,Professor
